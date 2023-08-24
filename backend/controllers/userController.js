@@ -75,7 +75,7 @@ const getMe = asyncHandler(async (req, res) => {
   console.log(req.user)
   const user = await User.findById(req.user._id)
   const {_id, name, email} = user
-  console.log("Sanky")
+
   
   res.status(200).json({
     _id: _id,
