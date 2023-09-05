@@ -13,7 +13,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #000;
+  color: #4c4a4a;
 }
 
 p {
@@ -93,7 +93,7 @@ h3 {
 }
 
 .goal {
-  background-color: #f4f4f4;
+  background-color: #e7e5e5;
   margin: 10px 0;
   padding: 20px 0 10px;
   position: relative;
@@ -106,6 +106,8 @@ h3 {
   cursor: pointer;
   border: none;
   background: none;
+  
+
 }
 
 .form,
@@ -139,7 +141,7 @@ h3 {
   padding: 10px 20px;
   border: 1px solid #000;
   border-radius: 5px;
-  background: #000;
+  background: #170808;
   color: #fff;
   font-size: 16px;
   font-weight: 700;
